@@ -1,0 +1,5 @@
+c:\users\david ezagury\documents\visual studio 2010\Projects\KnockOutJs\KnockOutJs\bin\KnockOutJs.dll
+c:\users\david ezagury\documents\visual studio 2010\Projects\KnockOutJs\KnockOutJs\bin\KnockOutJs.pdb
+c:\users\david ezagury\documents\visual studio 2010\Projects\KnockOutJs\KnockOutJs\obj\Debug\ResolveAssemblyReference.cache
+c:\users\david ezagury\documents\visual studio 2010\Projects\KnockOutJs\KnockOutJs\obj\Debug\KnockOutJs.dll
+c:\users\david ezagury\documents\visual studio 2010\Projects\KnockOutJs\KnockOutJs\obj\Debug\KnockOutJs.pdb
